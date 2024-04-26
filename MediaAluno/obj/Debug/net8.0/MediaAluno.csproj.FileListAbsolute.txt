@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\bin\Debug\net8.0\MediaAluno.exe
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\bin\Debug\net8.0\MediaAluno.deps.json
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\bin\Debug\net8.0\MediaAluno.runtimeconfig.json
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\bin\Debug\net8.0\MediaAluno.dll
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\bin\Debug\net8.0\MediaAluno.pdb
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.AssemblyInfo.cs
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.dll
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\refint\MediaAluno.dll
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.pdb
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\MediaAluno.genruntimeconfig.cache
+C:\Users\julia\source\repos\MediaAluno\MediaAluno\obj\Debug\net8.0\ref\MediaAluno.dll
